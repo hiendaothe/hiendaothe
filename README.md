@@ -2,7 +2,7 @@
 <h3 align="center">A fourth-year student majoring in Computer Science</h3>
 
 - 🔭 I’m currently studying at **Vietnamese-German University**
-- 🌱 I’m currently learning: **Data Engineer**
+- 🌱 I’m currently learning: **Data Analyst**
 - 📫 How to reach me: **daothehien2003@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
